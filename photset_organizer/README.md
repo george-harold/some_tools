@@ -25,7 +25,7 @@ python organizer.py --dataset D:/dataset
 ...  
 输出的文件会变成  
 |--dataset [nP_nV_nMB]  
-|--|--xxx-1.jpg  
+|--|--xxx-1.jpg(xxx为随机的三个字母)  
 |--|--xxx-2.jpg  
 |--|--|videos  
 |--|--|--1.mp4  
