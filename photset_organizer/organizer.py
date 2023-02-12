@@ -1,7 +1,7 @@
 # /usr/bin/env python
 # -*- coding: UTF-8 -*-
 # create on: 2022-12-25
-# author: harold-chen
+# author: haroldchen
 
 # usage: python organizer.py --dataset D:/dataset
 
